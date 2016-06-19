@@ -1,4 +1,4 @@
-### Aquarela
+### Iris
 
 ![artwork](dist/thumbnail.jpg)
 
